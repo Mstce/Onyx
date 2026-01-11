@@ -38,6 +38,17 @@
 
 *待添加*
 
+## 感谢名单
+
+感谢以下贡献者对本项目的支持：
+
+<!-- CONTRIBUTORS:START -->
+| 头像 | 用户名 | 链接 |
+|------|--------|------|
+| <img src="https://avatars.githubusercontent.com/Mstce" width="40" /> | Mstce | [@Mstce](https://github.com/Mstce) |
+| <img src="https://avatars.githubusercontent.com/Y5neKO" width="40" /> | Y5neKO | [@Y5neKO](https://github.com/Y5neKO) |
+<!-- CONTRIBUTORS:END -->
+
 ## 免责声明
 
 本工具仅供授权安全测试使用。使用者需自行承担使用风险，作者不对任何滥用行为负责。
