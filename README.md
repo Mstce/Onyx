@@ -31,7 +31,7 @@
 
 | 平台 | 文件 |
 |------|------|
-| macOS | `Onyx_x.x.x_darwin_universal.dmg` |
+| macOS | `Onyx-v1.1.4-macOS-arm64.dmg` |
 | Windows | `Onyx_1.1.4_windows_x64.zip` |
 
 ## 截图
