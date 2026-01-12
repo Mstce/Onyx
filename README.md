@@ -32,7 +32,7 @@
 | 平台 | 文件 |
 |------|------|
 | macOS | `Onyx_x.x.x_darwin_universal.dmg` |
-| Windows | `Onyx_x.x.x_windows_amd64.exe` |
+| Windows | `Onyx_1.1.4_windows_x64.zip` |
 
 ## 截图
 
