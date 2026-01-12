@@ -84,13 +84,15 @@
 
 自动解析和格式化 FScan 扫描结果
 
-![image-20260112154625249](C:\Users\scand\AppData\Roaming\Typora\typora-user-images\image-20260112154625249.png)
+<img width="1616" height="998" alt="image" src="https://github.com/user-attachments/assets/ff6cb2b5-fb63-4d50-a0ba-0ecae757c272" />
+
 
 #### 快速截图
 
 结果批量截图
+<img width="1616" height="998" alt="image" src="https://github.com/user-attachments/assets/d2e15627-95bd-45db-a276-96972aa4bce8" />
 
-![image-20260112154732555](C:\Users\scand\AppData\Roaming\Typora\typora-user-images\image-20260112154732555.png)
+
 
 #### 示例
 
