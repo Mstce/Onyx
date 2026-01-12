@@ -56,37 +56,6 @@
 
 <img src="images/image-20260112133404924.png" alt="image-20260112133404924" style="zoom:33%;" />
 
-### 探测功能
-
-#### 端口扫描
-
-- 基于 naabau 扫描
-- 预设常用端口（Top 100/1000）
-- 自定义端口范围
-- 服务识别与 Banner 抓取
-
-#### 指纹识别
-
-- 10,520+ 指纹规则库
-- 支持 body/header/title/icon_hash 匹配
-- 自动识别 Web 技术栈
-
-#### 目录扫描
-
-- 多线程字典扫描
-- 自定义字典和扩展名
-- 智能去重和状态过滤
-
-#### 服务爆破
-
-支持 20+ 协议：
-
-- SSH, FTP, Telnet
-- MySQL, PostgreSQL, MSSQL
-- Redis, MongoDB, Memcached
-- RDP, VNC, SMB
-- HTTP Basic/Digest Auth
-
 #### 请求重放
 
 - 自定义 HTTP 请求
@@ -123,20 +92,6 @@
 
 ![image-20260112154732555](C:\Users\scand\AppData\Roaming\Typora\typora-user-images\image-20260112154732555.png)
 
-
-
-#### 杀软识别
-
-识别目标主机安装的安全软件
-
-#### 默认密码查询
-
-常见资产默认密码数据库
-
-#### JS 敏感信息搜集
-
-自动提取 JavaScript 中的敏感信息
-
 #### 示例
 
 <img src="images/image-20260112140401729.png" alt="image-20260112140401729" style="zoom:33%;" />
@@ -154,20 +109,6 @@
 支持标准钉钉、专属钉钉利用
 
 <img src="images/image-20260112140738119.png" alt="image-20260112140738119" style="zoom:33%;" />
-
-### 数据加解密
-
-#### 格式处理
-
-多种预置情况数据处理
-
-#### CyberChef
-
-数据处理的瑞士军刀
-
-#### JWT 密钥相关利用
-
-JWT 解析、生成与密钥利用
 
 #### 常见资产密文加解密
 
