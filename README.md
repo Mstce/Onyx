@@ -47,7 +47,7 @@
 |------|--------|------|
 | <img src="https://avatars.githubusercontent.com/Mstce" width="40" /> | Mstce | [@Mstce](https://github.com/Mstce) |
 | <img src="https://avatars.githubusercontent.com/Y5neKO" width="40" /> | Y5neKO | [@Y5neKO](https://github.com/Y5neKO) |
-| <img src="https://avatars.githubusercontent.com/In1t0" width="40" /> | Y5neKO | [@In1t0](https://github.com/In1t0) |
+| <img src="https://avatars.githubusercontent.com/In1t0" width="40" /> | In1t0 | [@In1t0](https://github.com/In1t0) |
 <!-- CONTRIBUTORS:END -->
 
 ## 免责声明
