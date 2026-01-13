@@ -106,7 +106,8 @@
 
 支持公众号、小程序、企业微信的 AK、SK 利用
 
-<img src="images/image-20260112140730367.png" alt="image-20260112140730367" style="zoom:33%;" />
+<img width="1623" height="998" alt="image" src="https://github.com/user-attachments/assets/e15cdb5f-b3a5-45be-8f97-a25883d30bca" />
+
 
 #### 钉钉利用
 
