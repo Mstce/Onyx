@@ -34,7 +34,8 @@
 
 渗透测试工具快速启动
 
-<img src="images/image-20260112134045428.png" alt="image-20260112134045428" style="zoom:33%;" />
+<img width="1616" height="998" alt="image" src="https://github.com/user-attachments/assets/b7bd56ff-2b5b-4c0f-8dd1-d6851a36688d" />
+
 
 ### 空间测绘
 
@@ -76,7 +77,8 @@
 
 - 资产收集与关联分析
 
-  ![image-20260112154532447](C:\Users\scand\AppData\Roaming\Typora\typora-user-images\image-20260112154532447.png)
+<img width="1616" height="998" alt="image" src="https://github.com/user-attachments/assets/30a7c81e-544b-4a72-8b22-50ad68397d90" />
+
 
 ### 攻防赋能
 
