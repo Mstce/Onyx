@@ -31,7 +31,7 @@
 ## 联系信息
 |  |  |
 |---|---|
-| ![](https://github.com/user-attachments/assets/d0a6df13-3c0a-4001-bd8f-450c01cbeed8) | ![](https://github.com/user-attachments/assets/f28392dc-c5e1-44a7-a611-2eed0fcbe621) |
+| <img src="https://github.com/user-attachments/assets/d0a6df13-3c0a-4001-bd8f-450c01cbeed8" width="220" /> | <img src="https://github.com/user-attachments/assets/f28392dc-c5e1-44a7-a611-2eed0fcbe621" width="220" /> |
 | **关注微信公众号** | **微信** |
 
 ## 功能
