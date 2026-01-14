@@ -28,6 +28,12 @@
 | **企业信息**   | 支持 IP 归属地查询、ICP 备案信息查询、企业与股权结构分析     |
 | **信息探测**   | 包含端口扫描、杀软识别、指纹识别、敏感信息采集 (JS 分析)     |
 
+## 联系信息
+|  |  |
+|---|---|
+| ![](https://github.com/user-attachments/assets/d0a6df13-3c0a-4001-bd8f-450c01cbeed8) | ![](https://github.com/user-attachments/assets/f28392dc-c5e1-44a7-a611-2eed0fcbe621) |
+| **关注微信公众号** | **微信** |
+
 ## 功能
 
 ### 快速启动工具箱
