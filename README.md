@@ -16,7 +16,7 @@
 
 ## 提示
 macos打不开请运行：
-sudo xattr -d com.apple.quarantine Fine.app
+sudo xattr -d com.apple.quarantine Onyx.app
 
 ## 功能
 
