@@ -131,6 +131,15 @@
 
 ## 漏洞利用 (Exploitation)
 
+### woodpecker-framework
+
+- **ID**: woodpecker-framework
+- **仓库**: /woodpecker-framework/woodpecker-framework-release
+- **分类**: exploitation
+- **平台**: windows, darwin, linux
+- **语言**: Java
+- **描述**: 漏洞精准检测深度利用框架
+
 ### Apt_t00ls
 
 - **ID**: apt_t00ls
