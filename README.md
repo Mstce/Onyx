@@ -10,14 +10,13 @@ Onyx 是一款桌面化安全测试工具集，聚合空间测绘、漏洞扫描
 - 泄漏利用：OSS / ECS 凭证库与利用能力
 - 工具集：编码解码、加解密、截图、结果处理等
 
-## 截图
+## 程序展示（九宫格）
 
 |  |  |  |
 |---|---|---|
-| ![](images/image-20260112133014894.png) | ![](images/image-20260112133152139.png) | ![](images/image-20260112133404924.png) |
-| ![](images/image-20260112134045428.png) | ![](images/image-20260112134445133.png) | ![](images/image-20260112134831768.png) |
-
-> 你只想展示部分页面时，直接替换或删除上面的单元格即可。
+| ![](images/1.png) | ![](images/2.png) | ![](images/3.png) |
+| ![](images/4.png) | ![](images/5.png) | ![](images/6.png) |
+| ![](images/7.png) | ![](images/8.png) | ![](images/9.png) |
 
 ## 下载
 
