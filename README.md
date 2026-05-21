@@ -31,3 +31,6 @@ sudo xattr -d com.apple.quarantine Onyx.app
 ## 免责声明
 
 本工具仅用于安全研究与授权测试。请确保在合法合规前提下使用，使用者自行承担风险与责任。
+
+## 功能借鉴参考
+database_scan：<https://github.com/Mstce/Onyx/releases>
